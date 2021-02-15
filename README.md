@@ -33,3 +33,7 @@
   135  git tag v0.1 
   136  git log --oneline
   137  history > README.md 
+
+NOMBRE                                GITHUB
+Antonio Fernando Roman Fernandez      https://github.com/antoniolc11/
+Antonio J. Marchena                   https://github.com/AJMG-95
